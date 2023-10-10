@@ -1,17 +1,20 @@
 /**
- * @name ClearVision
- * @author ClearVision Team
- * @version 6.3.0
- * @description Highly customizable theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite dHaSxn3
- */
+ * @name Anime Girl Draconic Dreaming
+ * @author akatsuki_soyori
+ * @version 1.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/Riyaiki/theme-bd
+ * @invite https://discord.gg/hC7FmjtgUD
+ * @donate 
+ * @website 
+ * @authorId 547149508673273886
+ * @BDEditor Riyaiki
+*/
 
-/* Credits to Zerthox for making the original theme. */
+/* Credits to akatsuki_soyori for making the original theme. */
 
 /* IMPORT CSS */
-@import url(https://clearvision.github.io/ClearVision-v6/main.css);
+@import url(https://github.com/Riyaiki/theme-bd/blob/main/main.scss); 
 
 /* SETTINGS */
 :root {

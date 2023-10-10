@@ -12,21 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ClearVision/ClearVision-v6.git"
+    "url": "https://github.com/Riyaiki/theme-bd.git"
   },
-  "author": "Zerthox",
+  "author": "akatsuki_soyori",
   "contributors": [
-    "Leozard",
-    "Mentalscars",
-    "nihaals",
-    "NyxIsBad",
-    "OmgDani",
-    "untuned",
-    "xcruxiex"
+    "Midjourney",
+    "Ashley Matthews",
+    "Thory",
+    "Doom"
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ClearVision/ClearVision-v6/issues"
+    "url": "https://github.com/Riyaiki/theme-bd/issues"
   },
   "homepage": "https://clearvision.github.io",
   "devDependencies": {
