@@ -12,9 +12,9 @@ _Thank you to @Gibbu to providing this._
 
 ## Installing
 
-Note: ClearVision doesn't actively support plugins (as in, we don't seek out and actively theme fixes to every new plugin). However, when a plugin is widely used, we try our best to stay compatible. 
+Note: DreamingDragonGirl doesn't actively support plugins (as in, we don't seek out and actively theme fixes to every new plugin). However, when a plugin is widely used, we try our best to stay compatible. 
 
-Download the theme file from [the BetterDiscord Website](https://betterdiscord.app/theme/ClearVision) or [releases](https://github.com/ClearVision/ClearVision-v6/releases) and move it into your [BetterDiscord](https://betterdiscord.app) themes folder:
+Download the theme file from [the BetterDiscord Website](URL) or [releases](https://github.com/ClearVision/ClearVision-v6/releases) and move it into your [BetterDiscord](https://betterdiscord.app) themes folder:
 
 ## Building from source
 
